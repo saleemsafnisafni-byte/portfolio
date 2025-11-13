@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, Mail, Sparkles, Download, Calendar } from 'lucide-react';
-import Image from "../../public/safni.jpg"
+import Image from "../asserts/safni.jpg"
 
 const Hero = () => {
   const [displayedText, setDisplayedText] = useState('');
