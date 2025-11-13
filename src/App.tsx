@@ -1,4 +1,5 @@
 import React from 'react';
+import { HashRouter as Router } from 'react-router-dom';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -11,17 +12,19 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="min-h-screen">
-      <Header />
-      <Hero />
-      <About />
-      <Skills />
-      <Projects />
-      <Education />
-      <Experience />
-      <Contact />
-      <Footer />
-    </div>
+    <Router>
+      <div className="min-h-screen">
+        <Header />
+        <Hero />
+        <About />
+        <Skills />
+        <Projects />
+        <Education />
+        <Experience />
+        <Contact />
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
