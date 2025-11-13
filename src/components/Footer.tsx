@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
         <div className="mt-6 pt-6 border-t border-gray-800 text-center">
           <p className="text-gray-400 text-sm">
-            Passionate about Instrumentation • Automation • PLC Systems • Industrial Innovation
+            Passionate about Instrumentation • Automation • PLC Systems • Industrial Innovation  • Embbedded systems 
           </p>
         </div>
       </div>

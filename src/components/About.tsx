@@ -16,7 +16,7 @@ const About = () => {
     {
       icon: <Users className="w-6 h-6" />,
       title: "Leadership",
-      description: "CEO at Wegmed, driving innovation in healthcare technology"
+      description: "MD at Wegmed,Responsible for business expansion, partnerships, and overall organizational leadership across diverse industries"
     }
   ];
 
