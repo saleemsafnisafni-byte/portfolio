@@ -195,7 +195,7 @@ const Contact = () => {
 
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://drive.google.com/file/d/1rutGFOYHoeN5c5r8VlC2MwM6kabT2cu1/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1lGhD2DmAuWHuoeK-6D7mOhxhMX6278Ty/view"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full bg-gradient-to-r from-teal-600 to-blue-600 text-white py-4 px-6 rounded-lg font-semibold hover:from-teal-700 hover:to-blue-700 transition-all duration-300 transform hover:scale-105 flex items-center justify-center"

@@ -1,12 +1,14 @@
 import React from 'react';
 import { Github, ExternalLink, Camera, Zap, Cpu } from 'lucide-react';
+import  Elepent from "../asserts/elepent.jpg"
+import line from "../asserts/lineflower.png"
 
 const Projects = () => {
   const projects = [
     {
       title: "Electric Fence Energizer",
       description: "An embedded electronics project designed to generate high-voltage pulses for livestock control and perimeter security. Uses ATmega328P microcontroller to drive an inverter circuit for MOSFETs with integrated alarm system. Accepts 12V DC or 220V AC input and provides 1000V output with 100mA current at 2 pulses per second.",
-      image: "/WhatsApp Image 2025-09-09 at 13.14.31_0d5d2a9f.jpg",
+      image: Elepent,
       technologies: ["ATmega328P", "MOSFET Inverter", "Power Electronics", "Embedded C", "High Voltage Systems", "PCB Design"],
       github: "https://github.com/saleemsafnisafni-byte/electric-fence-energizer",
       features: [
@@ -36,7 +38,7 @@ const Projects = () => {
     {
       title: "Line Following Robot with Obstacle Detection",
       description: "An autonomous robot that combines line following capabilities with intelligent obstacle detection and avoidance. Built using Arduino microcontroller with IR sensors for line detection and ultrasonic sensors for obstacle detection, creating a smart navigation system for automated guided vehicles.",
-      image: "/Gemini_Generated_Image_llucuqllucuqlluc.png",
+      image: line,
       technologies: ["Arduino", "IR Sensors", "Ultrasonic Sensors", "Motor Control", "Embedded C", "Autonomous Navigation"],
       github: "https://github.com/saleemsafnisafni-byte/line-following-and-obstacle-detection",
       features: [

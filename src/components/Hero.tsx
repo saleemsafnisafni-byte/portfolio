@@ -122,7 +122,7 @@ const Hero = () => {
                   className="group border-2 border-teal-600 text-teal-600 hover:bg-teal-600 hover:text-white px-6 py-4 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105 flex items-center justify-center gap-3 flex-1"
                 >
                   <Download className="w-4 h-4" />
-                  <span>Resume</span>
+                 <a href='https://drive.google.com/file/d/1lGhD2DmAuWHuoeK-6D7mOhxhMX6278Ty/view'>Resume</a>
                 </button>
               </div>
             </div>

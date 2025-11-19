@@ -71,7 +71,7 @@ const Header = () => {
               <Mail className="w-5 h-5" />
             </a>
             <a
-              href="https://drive.google.com/file/d/1rutGFOYHoeN5c5r8VlC2MwM6kabT2cu1/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1lGhD2DmAuWHuoeK-6D7mOhxhMX6278Ty/view"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium transition-colors duration-200"
@@ -112,7 +112,7 @@ const Header = () => {
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/saleem-safni-a73962353"
+                  href="https://www.linkedin.com/in/safni-saleem-a73962353/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
